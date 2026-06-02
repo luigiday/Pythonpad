@@ -1,3 +1,5 @@
+> [!CAUTION]
+> Ce projet n'as jamais été maintenu et avais été codé par ia (raison principale de sa non-maintenance). Il est probablement safe mais ne recevera plus de mises a jour
 # Pythonpad
 Une simple appli bloc-note avec la possiblité d'éxecuter du code Python (application Python requise) et qui a des onglets
 
